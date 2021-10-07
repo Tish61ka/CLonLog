@@ -31,6 +31,6 @@
         echo "<p>{$_SESSION['message']}</p>";
         unset($_SESSION['message']);
         ?>
-    </form>
+    </form> 
 </body>
 </html>
