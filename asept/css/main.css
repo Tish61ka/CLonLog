@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 620px;
+    height: 300px;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+input{
+    width: 36%;
+    margin-bottom: 4%; 
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1xp solid black;
+}
+input:hover{
+
+}
+button{
+    height: 11%;
+    width: 46%;
+    border: 1px solid black;
+    background: transparent;
+
+}
+button:hover{
+    cursor: pointer;
+}
